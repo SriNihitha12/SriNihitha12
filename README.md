@@ -1,6 +1,9 @@
 Hi, I’m Sri Nihitha Mandadi
+
 "I'm interested in exploring the most recent advancements."
+
 "I am presently undertaking a master's degree at Northwest Missouri State University."
+
 Fun fact: It's always been a goal of mine to explore different cultures and environments.
 
 <!---
